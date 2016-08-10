@@ -1,0 +1,6 @@
+framework module EasyCountDownButton {
+  umbrella header "EasyCountDownButton-umbrella.h"
+
+  export *
+  module * { export * }
+}
