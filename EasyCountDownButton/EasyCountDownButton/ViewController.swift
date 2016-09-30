@@ -17,24 +17,24 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 
         btn.disableConfig = EasyCountDownButtonConfig(
-            font: UIFont.systemFontOfSize(14),
+            font: UIFont.systemFont(ofSize: 14),
             title: "剩余 5 秒",
-            titleColor: UIColor.grayColor(),
-            backgroundColor: UIColor.groupTableViewBackgroundColor(),
+            titleColor: UIColor.gray,
+            backgroundColor: UIColor.groupTableViewBackground,
             backgroundImage: nil)
 
         btn.enableConfig = EasyCountDownButtonConfig(
-            font: UIFont.systemFontOfSize(14),
+            font: UIFont.systemFont(ofSize: 14),
             title: "获取验证码",
-            titleColor: UIColor.magentaColor(),
-            backgroundColor: UIColor.blueColor(),
+            titleColor: UIColor.magenta,
+            backgroundColor: UIColor.blue,
             backgroundImage: nil)
 
         self.view.addSubview(btn)
 
         // 点击事件  button type要 设置成custom 否则会闪动
         btn.addToucheHandler { (btn, second) in
-            btn.startWithSecond(5)
+            btn?.start(withSecond: 5)
         }
 
         // 时间改变
