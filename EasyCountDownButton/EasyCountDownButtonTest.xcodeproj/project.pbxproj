@@ -168,7 +168,6 @@
 				DE10FAD91DBD0B9C009941EC /* Sources */,
 				DE10FADA1DBD0B9C009941EC /* Frameworks */,
 				DE10FADB1DBD0B9C009941EC /* Headers */,
-				DE10FADC1DBD0B9C009941EC /* Resources */,
 			);
 			buildRules = (
 			);
@@ -241,13 +240,6 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		DE10FADC1DBD0B9C009941EC /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		DE19AF8D1D5B53C400B3E23F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -529,6 +521,7 @@
 				DE10FAE81DBD0B9C009941EC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DE19AF8A1D5B53C400B3E23F /* Build configuration list for PBXProject "EasyCountDownButtonTest" */ = {
 			isa = XCConfigurationList;
