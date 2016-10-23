@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DEC9D0881D9EBB7300CE7C48"
-               BuildableName = "EasyCountDown ios.framework"
-               BlueprintName = "EasyCountDown ios"
+               BlueprintIdentifier = "DE10FADD1DBD0B9C009941EC"
+               BuildableName = "EasyCountDown_iOS.framework"
+               BlueprintName = "EasyCountDown_iOS"
                ReferencedContainer = "container:EasyCountDownButtonTest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DEC9D0881D9EBB7300CE7C48"
-            BuildableName = "EasyCountDown ios.framework"
-            BlueprintName = "EasyCountDown ios"
+            BlueprintIdentifier = "DE10FADD1DBD0B9C009941EC"
+            BuildableName = "EasyCountDown_iOS.framework"
+            BlueprintName = "EasyCountDown_iOS"
             ReferencedContainer = "container:EasyCountDownButtonTest.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -63,9 +63,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DEC9D0881D9EBB7300CE7C48"
-            BuildableName = "EasyCountDown ios.framework"
-            BlueprintName = "EasyCountDown ios"
+            BlueprintIdentifier = "DE10FADD1DBD0B9C009941EC"
+            BuildableName = "EasyCountDown_iOS.framework"
+            BlueprintName = "EasyCountDown_iOS"
             ReferencedContainer = "container:EasyCountDownButtonTest.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
